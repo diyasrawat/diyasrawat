@@ -1,6 +1,6 @@
 # Hi, I'am Diya!👋
 - 💻 20-year-old Data Science, Machine learning  enthusiast based in Mumbai, India<br>
-- 🎓 Final Year B.Sc. in Data Science at Narsee Monjee Institute of Management Studies (NMIMS) Mumbai <br>
+- 🎓 B.Sc. in Data Science at Narsee Monjee Institute of Management Studies (NMIMS) Mumbai <br>
 - 🧠  Passionate about uncovering insights and harnessing the power of AI<br>
 - 🚀 Always learning, always curious, and ready to turn data into stories!
 
