@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Diya 👋</h1>
 
-<h3 align="center">AI Agent Developer • Data Scientist • Generative AI Builder</h3>
+<h3 align="center">AI Agent Developer • Data Science Student • Generative AI Product Builder</h3>
 
 <p align="center">
 Building AI-powered products, autonomous agents, and intelligent systems.
