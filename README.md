@@ -84,10 +84,10 @@ Building AI-powered products, autonomous agents, and intelligent systems.
 
 ## Highlights
 
-- National Winner — Vista'23 Product Management Competition (IIM Bangalore)
-- Runner-Up — Hack-A-Stat'25 Data Science Hackathon
-- Top 10 Percentile — IIT Guwahati Time Series Analysis Track
-- Top 25 Percentile — IIT Guwahati Summer Analytics Track
+- National Winner -Vista'23 Product Management Competition (IIM Bangalore)
+- Runner-Up-Hack-A-Stat'25 Data Science Hackathon
+- Top 10 Percentile - IIT Guwahati Time Series Analysis Track
+- Top 25 Percentile - IIT Guwahati Summer Analytics Track
 - EY Power BI Certified
 
 ---
