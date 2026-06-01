@@ -11,7 +11,7 @@ Building AI-powered products, autonomous agents, and intelligent systems.
 
 ## About Me
 
-- AI Agent Developer focused on Agentic AI, Generative AI, and Intelligent Automation
+- AI Agent Developer @Sciquire focused on building custom voice agents automation workflow
 - M.Sc. Statistics & Data Science @ NMIMS Mumbai ('27)
 - B.Sc. Data Science @ NMIMS Mumbai ('25)
 - National Winner-Vista'23 Product Management Competition, IIM Bangalore
