@@ -14,9 +14,9 @@ Building AI-powered products, autonomous agents, and intelligent systems.
 - AI Agent Developer focused on Agentic AI, Generative AI, and Intelligent Automation
 - M.Sc. Statistics & Data Science @ NMIMS Mumbai ('27)
 - B.Sc. Data Science @ NMIMS Mumbai ('25)
-- National Winner — Vista'23 Product Management Competition, IIM Bangalore
-- Runner-Up — Hack-A-Stat'25 Data Science Hackathon
-- Analytics Summer Project Contributor — IIT Guwahati
+- National Winner-Vista'23 Product Management Competition, IIM Bangalore
+- Runner-Up-Hack-A-Stat'25 Data Science Hackathon
+- Analytics Summer Project Contributor- IIT Guwahati
 - Passionate about solving problems where AI, Product, Data, and Innovation intersect
 
 ---
