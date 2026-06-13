@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Diya 👋</h1>
 
-<h3 align="center">AI Agent Developer @ Sciquire • Data Science Student @NMIMS Mumbai AI Product Builder @ Hackathons & Side Projects</h3>
+<h3 align="center">AI Agent Developer @ Sciquire • AI/ML & Data Science Student @NMIMS Mumbai AI Product Builder @ Hackathons & Side Projects</h3>
 
 <p align="center">
 Building AI-powered products, autonomous agents, and intelligent systems.
